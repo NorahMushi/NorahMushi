@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Norah 👋
 
-<!--
-**NorahMushi/NorahMushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Analyst | Data Science | SQL | Python | Game Developer  
+📍 Riyadh, Saudi Arabia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python (Pandas, Matplotlib, Seaborn)
+- SQL & Data Modeling
+- Jupyter Notebook & Data Visualization
+- Unity & C# — Game Development
+
+---
+
+## 🌟 About Me
+
+I'm a data enthusiast and game developer based in Riyadh.
+I enjoy turning raw data into meaningful insights,
+and building interactive experiences through game development.
+
+My work spans data analysis, data science, and 2D game development —
+combining analytical thinking with creative problem-solving.
+
+---
+
+## 📊 GitHub Stats
+
+![Norah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NorahMushi&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NorahMushi&layout=compact&theme=tokyonight&cache_seconds=1800)
+
+---
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/norah-mushi/)
