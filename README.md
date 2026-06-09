@@ -26,9 +26,7 @@ combining analytical thinking with creative problem-solving.
 
 ## 📊 GitHub Stats
 
-![Norah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NorahMushi&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NorahMushi&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Norah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NorahMushi&show_icons=true&theme=tokyonight)
 
 ---
 ## 📫 Connect with me
