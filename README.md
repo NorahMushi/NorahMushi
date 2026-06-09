@@ -23,11 +23,5 @@ My work spans data analysis, data science, and 2D game development —
 combining analytical thinking with creative problem-solving.
 
 ---
-
-## 📊 GitHub Stats
-
-![Norah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NorahMushi&show_icons=true&theme=tokyonight)
-
----
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/norah-mushi/)
